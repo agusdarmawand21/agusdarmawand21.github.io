@@ -1,0 +1,216 @@
+/* Untuk Tablets */
+
+/* Untuk Smartphone */
+
+/* Tambahkan breakpoint max-width: 900px */
+@media (max-width: 900px) {
+  .our-offer {
+  height: 1000px;
+  padding-bottom: 80px;
+  padding-left: 10px;
+  background-color: #f7f7f7;
+  text-align: center;
+
+  }
+
+  /* Tambahkan CSS untuk lesson */
+  .lesson {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+ .about-us {
+  padding: 180px 0 100px 0;
+  background-image: url('Advina Secret.jpg');
+  color: white;
+  }
+
+ .transparent {
+  position: relative;
+  left: 300px;
+  width: 250px;
+  height: 400px;
+  background-color: #000;
+  opacity: 0.7;
+  color: white;
+  }
+
+  .transparent h1 {
+
+  font-size: 20px;
+  }
+
+  .transparent h2 {
+  font size: 12px;
+  font-weight: normal;
+  }
+
+  .details{
+  position: relative;
+  background-color: #c30045;
+  cursor: pointer;
+  left: 80px;
+  top: 50px;
+  }
+
+  .book3{
+  position: relative;
+  background-color: #c30045;
+  cursor: pointer;
+  left: 80px;
+  top: -50px;
+  }
+
+  .section {
+  float: left;
+  width: 50%;
+  }
+
+  /* Tambahkan CSS untuk header-right */
+  .header-right {
+    display: none;
+  }
+  
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-icon {
+    display: block;
+  }
+
+}
+
+/* Tambahkan breakpoint max-width: 450px */
+@media (max-width: 450px) {
+.lesson {
+    width: 100%;
+  }
+  
+  .btn {
+    width: 300px;
+  }
+
+  .our-offer {
+  height: 2000px;
+  background-color: #f7f7f7;
+  text-align: center;
+
+  }
+
+ .about-us {
+  height: 470px;
+  }
+
+  .room {
+  height: 400px;
+  }
+
+  .cafe{
+  height: 400px;
+  }
+
+  .event {
+  	height: 400px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+
+ .transparent {
+  top: -100px;
+  position: relative;
+  left: 50px;
+  width: 300px;
+  height: 150px;
+  background-color: #000;
+  opacity: 0.7;
+  color: white;
+  }
+
+  .transparent h1 {
+  	font-size: 18px;
+  }
+
+  .transparent h2 {
+  	font-size: 14px;
+  	font-weight: normal;
+  }
+
+  .transparent-room1 {
+  top: -100px;
+  position: relative;
+  left: 50px;
+  width: 300px;
+  height: 150px;
+  background-color: #000;
+  opacity: 0.7;
+  color: white;
+  }
+
+  .transparent-room1 h1 {
+  	font-size: 18px;
+  }
+
+  .transparent-room1 h2 {
+  	font-size: 14px;
+  	font-weight: normal;
+  }
+
+  
+  
+  /* Tambahkan CSS untuk header-right */
+  .header-right {
+    display: none;
+  }
+  
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-icon {
+    display: block;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .details{
+  position: relative;
+  background-color: #c30045;
+  cursor: pointer;
+  left: 50px;
+  top: 50px;
+  }
+
+  .book2{
+  position: relative;
+  background-color: #c30045;
+  cursor: pointer;
+  left: 50px;
+  top: -720px;
+  }
+
+  .details2{
+  position: relative;
+  background-color: #3b5998;
+  cursor: pointer;
+  left: 40px;
+  top: -700px;
+  }
+
+  .book3{
+  position: relative;
+  background-color: #c30045;
+  cursor: pointer;
+  left: 50px;
+  top: -50px;
+  }
+
+  .section {
+  width: 100%;
+  }
+}
